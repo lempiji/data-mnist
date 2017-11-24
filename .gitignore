@@ -19,6 +19,15 @@
 docs.json
 __dummy.html
 docs/
+data-mnist.so
+data-mnist.dylib
+data-mnist.dll
+data-mnist.a
+data-mnist.lib
+data-mnist-test-*
+*.exe
+*.o
+*.obj
 
 # Code coverage
 *.lst

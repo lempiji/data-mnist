@@ -1,0 +1,8 @@
+{
+	"name": "data-mnist",
+	"authors": [
+		"lempiji"
+	],
+	"description": "Download MNIST dataset.",
+	"license": "MIT"
+}
